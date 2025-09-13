@@ -14,4 +14,4 @@ This is my personal portfolio website where I showcase projects, skills, and exp
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-portfolio.git
+   git clone https://github.com/armaandevaryan/my-portfolio.git
